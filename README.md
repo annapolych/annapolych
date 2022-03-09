@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annapolych or Anna Polychroniou
-- 👀 I’m interested in Data Analysis and Data Science to address Busness Analysis and Decicion Making tasks.
-- 🌱 I’m currently learning adncanced SQL to obtain fluency
+- 👀 I’m interested in Data Analysis and Data Science to address Busness Analysis and Decicion Making tasks
+- 🌱 I’m currently learning advanced SQL to acquire fluency
 - 📫 How to reach me: annapolychroniou@gmail.com
 
 <!---
